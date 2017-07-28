@@ -1,6 +1,8 @@
 ## Recursos
 
  - [Fotos](./fotos)
+ - Convidada
+   - Izabela Melo
  - Empresa
    - [Geekie](http://www.geekie.com.br/)
  - Bibliografia
