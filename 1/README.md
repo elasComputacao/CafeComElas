@@ -1,6 +1,7 @@
 ## Recursos
 
  - [Fotos](./fotos)
+ - [Resources](./resources)
  - Convidada
    - Izabela Melo
  - Empresa
