@@ -1,9 +1,10 @@
-## Recursos
+# Nosso primeiro café 🥰
 
+## Convidada Izabela Melo 
+
+### Recursos
  - [Fotos](./fotos)
  - [Resources](./resources)
- - Convidada
-   - Izabela Melo
  - Empresa
    - [Geekie](http://www.geekie.com.br/)
  - Bibliografia
@@ -13,4 +14,4 @@
    - [Estrelas Além do Tempo](https://www.youtube.com/watch?v=wx3PVtrU-Os)
    
    
-![Izabela Melo](./fotos/post_image.jpg)
+<img src="./fotos/post_image.jpg" heigth="300"/>
