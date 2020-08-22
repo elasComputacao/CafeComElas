@@ -1,4 +1,4 @@
-# Café com Elas :coffee:
+# :coffee: Café com Elas
 
 <p align="center">
 <img src="./assets/logo_elas.png" heigth="80" width="180"/>
